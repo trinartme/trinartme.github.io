@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://trinartme.github.io/trinartme.trinartme
+Sitemap: https://trinartme.github.io/app/trinartme.trinartme
+Sitemap: https://trinartme.github.io/assets/trinartme.trinartme
+Sitemap: https://trinartme.github.io/css/trinartme.trinartme
+Sitemap: https://trinartme.github.io/includes/trinartme.trinartme
+Sitemap: https://trinartme.github.io/item/trinartme.trinartme
+Sitemap: https://trinartme.github.io/src/trinartme.trinartme
